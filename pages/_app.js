@@ -1,5 +1,5 @@
-import SideBar from "@/components/SideBar";
-import "@/styles/globals.css";
+import SideBar from "../components/SideBar.jsx";
+import "../styles/globals.css";
 
 export default function App({ Component, pageProps }) {
   return (
